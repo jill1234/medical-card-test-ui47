@@ -1,0 +1,17 @@
+{
+  "name": "醫療卡 V1.0 獨立測試版",
+  "short_name": "醫療卡測試",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#faf8f2",
+  "theme_color": "#84917a",
+  "lang": "zh-Hant",
+  "icons": [
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
